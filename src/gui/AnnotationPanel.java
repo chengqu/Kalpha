@@ -11,6 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JScrollBar;
+import javax.swing.JToggleButton;
 
 public class AnnotationPanel {
 
@@ -46,6 +47,10 @@ public class AnnotationPanel {
 	public DefaultListModel listModel;
 	public JScrollPane scrollPane;
 	public JScrollBar scrollBar;
+	public JLabel lblID;
+	public JButton btnDECID;
+	public JButton btnINCID;
+	public JToggleButton tglbtnENID;
 	/**
 	 * Launch the application.
 	 */
@@ -68,6 +73,10 @@ public class AnnotationPanel {
 	public AnnotationPanel() {
 		initialize();
 		frame.getRootPane().setDefaultButton(btnGO);
+		
+		
+		
+		
 	}
 
 	/**
@@ -195,5 +204,21 @@ public class AnnotationPanel {
 		btnDM = new JButton("Disclose Marker");
 		btnDM.setBounds(582, 291, 143, 45);
 		frame.getContentPane().add(btnDM);
+		
+		lblID = new JLabel("ID: ");
+		lblID.setBounds(735, 500, 66, 18);
+		frame.getContentPane().add(lblID);
+		
+		btnDECID = new JButton("-");
+		btnDECID.setBounds(636, 498, 89, 23);
+		frame.getContentPane().add(btnDECID);
+		
+		btnINCID = new JButton("+");
+		btnINCID.setBounds(811, 498, 89, 23);
+		frame.getContentPane().add(btnINCID);
+		
+		tglbtnENID = new JToggleButton("ID ON/OFF");
+		tglbtnENID.setBounds(933, 410, 121, 23);
+		frame.getContentPane().add(tglbtnENID);
 	}
 }

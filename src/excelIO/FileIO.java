@@ -15,11 +15,13 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.ListIterator;
 public class FileIO {
 
 
 	public static AnnotationPanel panel = new AnnotationPanel();
-	public static Iterator<Row> rowIterator;
+	public static Iterator<Row> rowsIterator;
 	public static String transcript;
 	public static HSSFWorkbook workbook;
 	public static FileInputStream file;
@@ -29,11 +31,20 @@ public class FileIO {
 	public static Row row;
 	public static Row firstRow;
 	public static int marker;
+	public static LinkedList<Row> rows = new LinkedList<Row>();
+	public static ListIterator<Row> rowIterator;
+	public static int hardCodedID;
+	public static boolean isIDEnabled;
 	
 	public static String annotate(String lable, String trans)
 	{
 		StringBuilder s = new StringBuilder();
-		s.append("[" + lable + " " + trans +"]");
+		trans = trans.trim();
+		if(isIDEnabled){
+			s.append("[" + lable + hardCodedID + " " + trans + "]");
+		} else {
+			s.append("[" + lable + " " + trans +"]");
+		}
 		return s.toString();
 	}
 	
@@ -60,7 +71,7 @@ public class FileIO {
 		 
 		 try {
              
-	            file = new FileInputStream("utternaceCleaned.xls");
+	            file = new FileInputStream("SampleDialogues_47_48.xls");
 	             
 	            //Get the workbook instance for XLS file 
 	            workbook = new HSSFWorkbook(file);
@@ -68,19 +79,28 @@ public class FileIO {
 	            //Get first sheet from the workbook
 	            HSSFSheet sheet = workbook.getSheetAt(0);
 	            //Iterate through each rows from first sheet
-	            rowIterator = sheet.iterator(); //??????????????????? don't know if work
+	            rowsIterator = sheet.iterator(); 
+	            //populate the linkedList
+	            while(rowsIterator.hasNext()){
+	            	rows.add(rowsIterator.next());
+	            }
+	            rowIterator = rows.listIterator();
 	            
                 panel.frame.setVisible(true);
                 firstRow = rowIterator.next();
+                hardCodedID = (int)firstRow.getCell(1).getNumericCellValue();
                 marker = (int) firstRow.getCell(0).getNumericCellValue();
                 int temp = marker;
                 row = firstRow;
-                while(temp > 0 && rowIterator.hasNext())
+                while(temp > 1 && rowIterator.hasNext())
                 {
                 	row = rowIterator.next();
+                	panel.listModel.addElement(row.getCell(5).getStringCellValue());
                 	temp--;
                 }
+                row = rowIterator.next();
                 display(row);
+                panel.lblID.setText("ID: " + hardCodedID);
                 
                 panel.btnNEXT.addActionListener(new ActionListener()
                 {
@@ -99,10 +119,12 @@ public class FileIO {
                 {
                 	public void actionPerformed(ActionEvent e)
                 	{
-                				
-                				panel.dialogueField.setText((String) panel.listModel.lastElement());
+                			if(rowIterator.hasPrevious()){	
+                				row = rowIterator.previous();
                 				panel.listModel.removeElement(panel.listModel.lastElement());
+                				display(row);
                 				panel.scrollBar.setValue(panel.scrollBar.getMaximum());
+                			}
                 	}
                 }
                 );
@@ -357,6 +379,34 @@ public class FileIO {
                 	}
                 }
                 );
+                
+                panel.btnINCID.addActionListener(new ActionListener()
+                {
+                	public void actionPerformed(ActionEvent e)
+                	{
+                		hardCodedID++;
+                		panel.lblID.setText("ID: " + hardCodedID);
+                	}
+                }
+                );
+                
+                panel.btnDECID.addActionListener(new ActionListener()
+                {
+                	public void actionPerformed(ActionEvent e)
+                	{
+                		hardCodedID--;
+                		panel.lblID.setText("ID: " + hardCodedID);
+                	}
+                }
+                );
+                
+                panel.tglbtnENID.addActionListener(new ActionListener(){
+
+					public void actionPerformed(ActionEvent e) {
+						isIDEnabled = panel.tglbtnENID.isSelected();
+					}
+                	
+                });
 	          
                 //TODO: excel duan dian
                 Runtime.getRuntime().addShutdownHook(new Thread(new Runnable()
@@ -365,8 +415,9 @@ public class FileIO {
                 		try{
                 		file.close();
                 		firstRow.getCell(0).setCellValue(marker);
+                		firstRow.getCell(1).setCellValue(hardCodedID);
            	            FileOutputStream out = 
-          	            new FileOutputStream(new File("utternaceCleaned.xls"));
+          	            new FileOutputStream(new File("SampleDialogues_47_48.xls"));
         	            workbook.write(out);
            	            out.close();
                 		} catch (FileNotFoundException e) {
