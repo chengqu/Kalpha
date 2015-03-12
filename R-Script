@@ -1,0 +1,2240 @@
+List <- list()
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(3,3,0,3,3,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,17,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(4,4),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,19,15,15,19,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,19,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,14,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,14,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,17,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,11,11,19,12,12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,0,0,12,12,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,17,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,0,0,12,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,13),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(1,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,17,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,17,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,0,19,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,19,17,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,12,12,15,15,15,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,12,12,12,12,12,1,1,1,1,1,1,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,14,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(4,10,10,10,4,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,11,11,11,5,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,14,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,11,5,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,17,17,17,15,15,12,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,12,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(7,7,7,7,7,7),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,15,15,5,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(4,10,10,10,10,10,10,10,10,10,10,4,10,10,10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,14,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,7,7,7,7,7,7),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,15,15,15,15,15,5,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,14,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,14,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,17,15,15,15,15,15,15,17,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,14,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,17,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,14,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,17,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,14,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,17,15,15,15,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,17,15,15,17,15,15,15,15,15,15,17,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,4,4,15,15,15,15,5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,17,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,17,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,11,11,5,5,15,15,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,15,12,15,15,15,15,17,15,15,15,14,15,15,15,15,15,15,15,15,12,15,15,15,15,17,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,13,13),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,12,12,12,12,12,12,12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,1,1,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,14,14,13,13,13),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,13),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(7,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,17,15,15,15,15,15,15,15,17,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,17,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,17,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,11,0,0,12,12,12,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,14,15,15,15,15,15,15,17,14,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,0,0,),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,17,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,17,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,14,15,15,15,15,15,15,15,15,15,17,14,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,0,0,0,19,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,17,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,17,15,15,15,15,17,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,17,15,15,15,15,15,15,17,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,17,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,17,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,10,10,10,10,10,10,0,0,10,10,10,10,10,10,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,17,15,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,0,0,0,12,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,17,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,15,15,15,15,15,15,5,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,6,15,15,15,15,15,15,15,15,17,6,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,12,15,15,15,15,15,15,15,15,15,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,12,12,12,12,1,1,1,1,1,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,1,1,1,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,4,4),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,14,14,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,5),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,14,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,0,0,0,1,1,1,1,1,1,1),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(4,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,0,0,12,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,19,14,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,14),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,19,17,5,15,15,15,15,15,15,17,5,5,17,5,15,15,15,15,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(3,10,10,10,10,10,10,10,10,10,3,10,10,10,10,10,10,10,10,10),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(5,15,15,5,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(4,15,15,15,15,15,19,15,15,15,15,15,15,15,15,15,15,4,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,17,15,15,15,14,15,15,15,15,15,15,17,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,17,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,5,15,15,17,5,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(11,11,11,0,0,0,0,11,11,11,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,14,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,15,15,15,15,15,15,15,15,17,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,15,17,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,14,14,15,15,15,17,17,14,15,15,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(17,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(13,13),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,17,15,15,17),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(8,8,8,8,8,8,13,8,8,8,8,8),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0,0,0,0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(0,0,0,0),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(NA,NA,NA,NA),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(14,15,15,15,15,14,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(12,12,12,12,12,12),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19,19,19,19,19,19,19,19,19,19,19,19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+tryCatch({
+nmm <- matrix(c(19,19),nrow=2,byrow=T)
+kalpha <- kripp.alpha(nmm)
+List[[length(List)+1]] <- kalpha
+}, error = function(e){print(0)})
+x <- 0
+for(i in 1:length(List)){
+x = x + List[[i]]$value}
+x = x/length(List)
